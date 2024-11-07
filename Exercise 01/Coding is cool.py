@@ -2,7 +2,7 @@
 Fill in the blanks in the Python code below to output the phrase **"Coding is Cool"** to the console using variables and string concatenation.
 
 
-### Fill in the blanks below
+### Fill in the blanks below:
 ```python
 word1 = 
 word2 = 
