@@ -10,6 +10,7 @@ Write a program that tells a user how many days there are in a specific month. U
 Leap Year Adjustment: Modify the program to account for leap years. For February, ask the user if the year is a leap year and adjust the number of days accordingly.
 
 """
+# Code edited to fit the advanced requirements
 # Dictionary of months and days
 Months_Days = {
     1: 31,   # January
@@ -29,10 +30,10 @@ Months_Days = {
 # User input for month number
 Months = int(input("Enter a month number (1-12): "))
 
-# Checking if the month is a valid number and corresponding days
+# Checking if the month is a valid number and corresponding days  
 if 1 <= Months <= 12:
     if Months == 2:
-        Leap_Year = input("Is it a leap year? (Yes/No): ").lower()
+        Leap_Year = input("Is it a leap year? (Yes/No): ").lower()  
 
         # Set days to 29 if leap year otherwise it stays default
         Days = 29 if Leap_Year == "yes" else Months_Days[Months]
