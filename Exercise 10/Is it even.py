@@ -1,5 +1,5 @@
 """
-Write a program that tests if a value is even or odd. Follow the instructions outlined below:  
+Write a program that tests if a value is even or odd. Follow the instructions outlined below:
 
 ### Instructions:
 * The program should ask the user for a number from within the main function.
@@ -20,3 +20,6 @@ def main():
     number = int(input("Enter a number:"))
     #using the function to print the output
     odd_even_check(number)  # Call the function and it will print the result
+#using main to make it more efficient
+if __name__ == "__main__":
+    main()
