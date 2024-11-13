@@ -6,7 +6,7 @@ Write a program that searches for a specific string within a list of strings. Th
 Name_list = ["Jake" "Zac", "Ian", "Ron", "Sam", "Dave"]
 #Name to search for
 Searching_name = "Sam"
-
+  
 # IF to check if the value "Sam" is in the list
 # IF and Else statement to check if the value is in the list and print output accordingly
 if Searching_name in Name_list:
