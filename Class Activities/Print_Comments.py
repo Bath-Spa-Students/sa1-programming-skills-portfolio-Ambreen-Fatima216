@@ -10,7 +10,7 @@ print("In univesity i like to spend my free time away from studies withn my frie
 print("I have multiple hobbies which I enjoy doing during my free time such as crocheting, baking, watching TV shows ")#hobbies 
 
 """The following poem is on eyes 
-            and its in 2 parts"""
+            and its in 2 parts""" 
 print("""Her eyes like the two pools of light
              Reflect the sorrows of her soul""")# Poem 1
 print("""With just a glance 
