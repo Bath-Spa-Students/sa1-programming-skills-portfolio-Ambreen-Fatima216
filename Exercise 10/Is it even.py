@@ -1,5 +1,5 @@
 """
-Write a program that tests if a value is even or odd. Follow the instructions outlined below:
+Write a program that tests if a value is even or odd. Follow the instructions outlined below:  
 
 ### Instructions:
 * The program should ask the user for a number from within the main function.
