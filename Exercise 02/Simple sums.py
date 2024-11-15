@@ -7,7 +7,7 @@ In this exercise, you will create and work with integer variables, perform arith
 3. Declare a third variable that stores the sum of first two numbers.
 4. Print the value of the sum to the console.
 """
-#assigning vaules to the variables
+#assigning vaules to the variablesS
 integer_1 = 8 #Integer variable 1
 integer_2 = 10#Integer variable 2
 integer_3 = integer_1 + integer_2 #Sum of integer_1 and integer_2
