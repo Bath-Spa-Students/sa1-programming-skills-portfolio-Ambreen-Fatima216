@@ -53,11 +53,11 @@ for d in range(50, 9, -2):# assigning the range, and the decrement value
 
 #Write a loop that counts up from 100 to 200 in increments of 5.
 # prints on seperate line
-print("\nCounting from 30 to 50 in increments of 1:")
+print("\nCounting from 100 to 200 in increments of 1:")
 for e in range(100, 201, 5): # assigning the range, and the incriment value
     print(e)# prints on seperate line
 # prints on one line for readability
-print("\nCounting from 30 to 50 in increments of 1 on same line:")
+print("\nCounting from 100 to 200 in increments of 1 on same line:")
 for e in range(100, 201, 5): # assigning the range, and the incriment value
     print(e,end=" ")# prints on one line for readability
 
