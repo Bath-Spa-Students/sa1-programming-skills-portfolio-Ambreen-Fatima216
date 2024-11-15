@@ -13,5 +13,5 @@ Personal_Information = {
     'hometown': 'Sharjah, UAE',   # Hometown Key variable
     'age': 17  #Age Key variable
 }
-print("Name: " + Personal_Information['name'] + "\nHometown: " + Personal_Information['hometown'] + "\nAge: " + str(Personal_Information['age']))
 #The print statement uses string concatenation to output on seperate lines 
+print("Name: " + Personal_Information['name'] + "\nHometown: " + Personal_Information['hometown'] + "\nAge: " + str(Personal_Information['age']))
