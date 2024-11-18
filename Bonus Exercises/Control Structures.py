@@ -10,7 +10,7 @@ Alien_color = "Red"
 
 #Checking using IF function if the aliens colour is Red
 if Alien_color.lower() == "red":
-    print("You earned +5 points.")
+    print("You earned +5 points.") # printing the output
 
 """•Write one version of this program that passes the if test and another that fails. (The
 version that fails will have no output.)
@@ -19,5 +19,5 @@ version that fails will have no output.)
 Alien_color = "Red"
 
 #Checking using IF function if the aliens colour is Red
-if Alien_color.lower() == "yellow":
-    print("You earned +5 points.")
+if Alien_color.lower() == "yellow": 
+    print("You earned +5 points.")# printing the output
