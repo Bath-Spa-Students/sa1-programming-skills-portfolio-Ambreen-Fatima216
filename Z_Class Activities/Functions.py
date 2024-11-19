@@ -16,5 +16,10 @@ print_message()
 print_message_2()
 print_message_3()
 
-#passing argument to variable
+#Void function
+def message():
+    print("Hello everyone")
+message()
+
+
 
