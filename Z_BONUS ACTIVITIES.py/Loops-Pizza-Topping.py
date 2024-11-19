@@ -5,16 +5,16 @@ Write a loop that prompts the user to enter a series of pizza toppings until the
 Print a message saying you'll add that topping to their pizza.
 
 """
-# Toppings in a list 
+# Toppings in a list     
 print("Enter 'quit' to stop adding toppings.")
-
+#while loop with if else to add toppings
 while True:
     toppings = input("Enter a topping: ")
 
-    if toppings.lower() == "quit":
+    if toppings.lower() == "quit": #using .lower() so capitalization doesn't matter
         print("No more toppings will be added.")
-        break
+        break # Break to stop adding toppings
     else: 
-        print(f"I'll add {toppings} to your pizza.")
+        print(f"I'll add {toppings} to your pizza .") #Printing out the toppings output   
 
    
